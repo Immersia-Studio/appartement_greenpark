@@ -1,0 +1,239 @@
+#: locale=fr
+
+## Action
+
+### URL
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11169.062550575833!2d5.928250551223752!3d45.58520446954201!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478ba90002900b93%3A0xa8ea2b4ceb693e9a!2sR%C3%A9sidence%20Green%20Park!5e0!3m2!1sfr!2sfr!4v1783465906823!5m2!1sfr!2sfr
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14377.55330038866!2d-73.99492968084243!3d40.75084469078082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9f775f259%3A0x999668d0d7c3fd7d!2s400+5th+Ave%2C+New+York%2C+NY+10018!5e0!3m2!1ses!2sus!4v1467271743182" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
+
+## Habillage
+
+### Bouton
+Button_54BB67C1_441E_900B_41C8_7408956C2A3C.label = IMMERSIA STUDIO
+Button_3184653B_3ED5_3D38_41C0_A7D3B240BC39.label = IMMERSIA STUDIO
+Button_41E3D2A5_60B9_0A08_41B7_737D4607570D.label = INFO
+Button_41E382A5_60B9_0A08_41D5_3FD188EFFDD4.label = LOCATION
+Button_718FB1CD_60B6_E5E3_41D6_BCB4CCFDFBDC.label = LOREM IPSUM
+Button_41E3F2A5_60B9_0A08_41C3_9FE9C5047659.label = PANORAMAS
+Button_41E3A2A5_60B9_0A08_41BE_55AB547304EE.label = PHOTOS
+
+### Image
+Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A.url = skin/Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A_fr.jpg
+Image_2E911B4D_3ED6_D558_41AB_EEDE7CEADDB1.url = skin/Image_2E911B4D_3ED6_D558_41AB_EEDE7CEADDB1_fr.png
+Image_41E322A5_60B9_0A08_41D0_4D34AC0B3F29.url = skin/Image_41E322A5_60B9_0A08_41D0_4D34AC0B3F29_fr.png
+Image_506908BD_4429_907A_41C9_1ED356EC6862.url = skin/Image_506908BD_4429_907A_41C9_1ED356EC6862_fr.png
+Image_56025E9B_441F_903F_419B_461F3F1D1BE5.url = skin/Image_56025E9B_441F_903F_419B_461F3F1D1BE5_fr.png
+Image_565CB425_4429_B00B_41C1_8BCAA981B905.url = skin/Image_565CB425_4429_B00B_41C1_8BCAA981B905_fr.png
+Image_702DAD25_675F_E72A_41D9_B69264D46BA6.url = skin/Image_702DAD25_675F_E72A_41D9_B69264D46BA6_fr.png
+Image_704034F4_676D_E52A_41C4_C6F20022674D.url = skin/Image_704034F4_676D_E52A_41C4_C6F20022674D_fr.png
+Image_7081CEC9_676C_E57A_41BA_26402FB237F0.url = skin/Image_7081CEC9_676C_E57A_41BA_26402FB237F0_fr.png
+Image_718C71CD_60B6_E5E3_41B9_105D7970318F.url = skin/Image_718C71CD_60B6_E5E3_41B9_105D7970318F_fr.jpg
+Image_71F13EF3_675D_252E_41D0_E461B00C0317.url = skin/Image_71F13EF3_675D_252E_41D0_E461B00C0317_fr.png
+Image_71F7FAE2_676D_6D2F_41D1_6A2DB94D9768.url = skin/Image_71F7FAE2_676D_6D2F_41D1_6A2DB94D9768_fr.png
+Image_71FA740B_676B_24FD_41B4_948FD4E5985E.url = skin/Image_71FA740B_676B_24FD_41B4_948FD4E5985E_fr.png
+Image_79183BA6_6725_2337_41D7_F1BD8072C223.url = skin/Image_79183BA6_6725_2337_41D7_F1BD8072C223_fr.png
+Image_7ABEBAE5_6724_ED35_41D1_D8AC89BE2107.url = skin/Image_7ABEBAE5_6724_ED35_41D1_D8AC89BE2107_fr.png
+Image_7AEC28C1_67DC_ED6D_41BA_86D8B6265B61.url = skin/Image_7AEC28C1_67DC_ED6D_41BA_86D8B6265B61_fr.png
+Image_7B086379_6727_231A_41CE_3B3585E6CD11.url = skin/Image_7B086379_6727_231A_41CE_3B3585E6CD11_fr.png
+Image_7B0EC2F3_6727_1D2E_4183_FAF5DD0EC91F.url = skin/Image_7B0EC2F3_6727_1D2E_4183_FAF5DD0EC91F_fr.png
+Image_7B771914_67DD_6CEB_41A3_7F8E7D4EAE54.url = skin/Image_7B771914_67DD_6CEB_41A3_7F8E7D4EAE54_fr.png
+Image_7B800EA0_67DD_252A_41D5_86F8C3428B5B.url = skin/Image_7B800EA0_67DD_252A_41D5_86F8C3428B5B_fr.png
+Image_7BAE5743_67DF_236E_41BD_3718B62DFFC0.url = skin/Image_7BAE5743_67DF_236E_41BD_3718B62DFFC0_fr.png
+Image_7C0DB733_6725_232E_41D6_734E42D65546.url = skin/Image_7C0DB733_6725_232E_41D6_734E42D65546_fr.png
+Image_7CECE08C_673D_1DF4_41D3_4F4D666CBF29.url = skin/Image_7CECE08C_673D_1DF4_41D3_4F4D666CBF29_fr.png
+Image_93EEF689_8BB6_BFD5_4195_1284E28CE92C.url = skin/Image_93EEF689_8BB6_BFD5_4195_1284E28CE92C_fr.png
+
+### Info-bulle
+IconButton_9741FF3F_8A75_CD2E_41C3_F4890EC8E412.toolTip = Fullscreen
+IconButton_26528ED3_3EF7_7141_41AF_2A7A80120D0B.toolTip = Fullscreen
+
+### Texte multiligne
+HTMLText_9D0F0F6F_8BAA_4D2D_41A5_209CF75B92BF.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:37px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0099ff;font-size:37px;"><B>SEJOUR - CUISINE</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:22px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:12px;">Un bel espace de vie lumineux de plus de 24m² avec la cuisine entièrement équipée.idéal pour pour partager des moments convivaux en famille ou entre amis</SPAN></SPAN></DIV></div>
+HTMLText_718FA1CD_60B6_E5E3_41D3_6335BDF289A6.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.33vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:8.33vmin;font-family:'Montserrat';"><B>LOREM IPSUM</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:8.33vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:8.33vmin;font-family:'Montserrat';"><B>DOLOR SIT AME</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.720000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:4.72vmin;font-family:'Montserrat';"><B>CONSECTETUR ADIPISCING ELIT. MORBI BIBENDUM PHARETRA LOREM, ACCUMSAN SAN NULLA.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.87vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.609999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.87vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.609999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.87vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:5.83vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.83vmin;font-family:'Montserrat';"><B>DONEC FEUGIAT:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.37vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.37vmin;"> </SPAN><SPAN STYLE="font-size:3.61vmin;">• Nisl nec mi sollicitudin facilisis </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.609999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Nam sed faucibus est.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.609999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Ut eget lorem sed leo.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.609999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Sollicitudin tempor sit amet non urna. </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.609999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Aliquam feugiat mauris sit amet.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.87vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:5.83vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.83vmin;font-family:'Montserrat';"><B>LOREM IPSUM:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.83vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:5.83vmin;font-family:'Montserrat';"><B>$150,000</B></SPAN></SPAN></DIV></div>
+HTMLText_062AD830_1140_E215_41B0_321699661E7F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.610000000000004vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:7.61vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.7000000000000015vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.7vh;font-family:'Montserrat';"><B>Appartement T2 - 43m²</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.96vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.9599999999999989vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:1.96vh;font-family:'Montserrat';"><B>Dans la nouvelle résidence Green Park, à Bassens.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.96vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.4206787687450668vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.42vh;">Un apparement Lumineux, fonctionnel et récent</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.200000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;">Situé sur la commune très recherchée de Bassens, aux portes de Chambéry, cet appartement bénéficie d'un environnement particulièrement agréable, alliant le calme d'un secteur résidentiel à la proximité immédiate de toutes les commodités.</SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.200000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;">En quelques minutes seulement, vous rejoignez le centre-ville de Chambéry, ses commerces, ses restaurants, ses établissements scolaires ainsi que les principaux axes routiers et autoroutiers.</SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.200000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;">Les amoureux de nature apprécieront également un cadre de vie exceptionnel. Entre les massifs des Bauges, de la Chartreuse et de Belledonne, les possibilités de randonnées, de balades et d'activités de plein air sont nombreuses tout au long de l'année.</SPAN></DIV><p STYLE="margin:0; line-height:1.96vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.9599999999999989vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.96vh;font-family:'Montserrat';"><B>Les points forts:</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.200000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"><UL STYLE="margin:0; padding-left: 1em; font-size:1.1838989739542234vh"><LI/></UL>Appartement récent et fonctionnel</SPAN></DIV><DIV STYLE="text-align:left;font-size:1.200000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"><UL STYLE="margin:0; padding-left: 1em; font-size:1.1838989739542234vh"><LI/></UL>Grande pièce de vie lumineuse</SPAN></DIV><DIV STYLE="text-align:left;font-size:1.200000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"><UL STYLE="margin:0; padding-left: 1em; font-size:1.1838989739542234vh"><LI/></UL>Cuisine entièrement équipée</SPAN></DIV><DIV STYLE="text-align:left;font-size:1.200000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"><UL STYLE="margin:0; padding-left: 1em; font-size:1.1838989739542234vh"><LI/></UL>Chambre confortable</SPAN></DIV><DIV STYLE="text-align:left;font-size:1.200000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"><UL STYLE="margin:0; padding-left: 1em; font-size:1.1838989739542234vh"><LI/></UL>Salle d'eau moderne</SPAN></DIV><DIV STYLE="text-align:left;font-size:1.200000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"><UL STYLE="margin:0; padding-left: 1em; font-size:1.1838989739542234vh"><LI/></UL>Balcon de près de 10 m²</SPAN></DIV><DIV STYLE="text-align:left;font-size:1.200000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"><UL STYLE="margin:0; padding-left: 1em; font-size:1.1838989739542234vh"><LI/></UL>Circulation fluide entre les pièces</SPAN></DIV><DIV STYLE="text-align:left;font-size:1.200000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"><UL STYLE="margin:0; padding-left: 1em; font-size:1.1838989739542234vh"><LI/></UL>Belle luminosité naturelle</SPAN></DIV><p STYLE="margin:0; line-height:1.96vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.83vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+## Hotspot
+
+### Texte
+HotspotPanoramaOverlayTextImage_2E0C4408_385E_0BEC_419B_2223EF9E61FA.text = Cuisine aménagée et équipée
+HotspotPanoramaOverlayTextImage_2D5C62B5_39D6_3770_4189_9C6871418695.text = Direction balcon
+HotspotPanoramaOverlayTextImage_2CA0210B_392E_3543_418A_1E87CEED1A19.text = Direction balcon
+HotspotPanoramaOverlayTextImage_2D8B6AF5_393E_74D5_41C9_8049DBE85565.text = Entrer SDB
+HotspotPanoramaOverlayTextImage_2D96E807_39D2_331C_41B7_C5FC10B54A8A.text = Entrer chambre
+HotspotPanoramaOverlayTextImage_2F352713_3952_FD4B_41A8_6B842FEC82AC.text = Entrer chambre
+HotspotPanoramaOverlayTextImage_2A6E2DC6_39D2_0D1A_41C7_7174CDDAE3F3.text = Entrer sdb
+HotspotPanoramaOverlayTextImage_3DF8FD50_2F7A_8D38_41B9_96D1A343C064.text = Entrée appartement
+HotspotPanoramaOverlayTextImage_2AE765A1_39D2_3D08_418C_E8F8869F80CD.text = Retour salon
+
+## Média
+
+### Audio
+audiores_2FAD187A_3EBA_F13A_416E_CA2D0AD3B6AA.url = media/audio_2E0011D0_3EBB_1345_41CB_24163FE7B1E8_fr.mp3
+audiores_2F2FCC0C_3E8D_70C3_41C5_6CF566D65F5B.url = media/audio_2F6B7D56_3E8D_134F_41B0_54BAE2BA3FF5_fr.mp3
+audiores_2F2FCC0C_3E8D_70C3_41C5_6CF566D65F5B.url = media/audio_2F6B7D56_3E8D_134F_41B0_54BAE2BA3FF5_fr.mp3
+audiores_2F2FCC0C_3E8D_70C3_41C5_6CF566D65F5B.url = media/audio_2F6B7D56_3E8D_134F_41B0_54BAE2BA3FF5_fr.mp3
+audiores_2F2FCC0C_3E8D_70C3_41C5_6CF566D65F5B.url = media/audio_2F6B7D56_3E8D_134F_41B0_54BAE2BA3FF5_fr.mp3
+audiores_2F2FCC0C_3E8D_70C3_41C5_6CF566D65F5B.url = media/audio_2F6B7D56_3E8D_134F_41B0_54BAE2BA3FF5_fr.mp3
+
+### Audio Subtitles
+
+### Image
+imlevel_ABEC1515_8AAA_72FD_41BC_AE85127C93A6.url = media/map_9BB0ED9B_8A96_CDF4_41D9_1E8D106DB085_fr_0.webp
+imlevel_ABECF515_8AAA_72FD_41E0_5C41D8894827.url = media/map_9BB0ED9B_8A96_CDF4_41D9_1E8D106DB085_fr_1.webp
+imlevel_ABECD515_8AAA_72FD_41A2_1420182BDC42.url = media/map_9BB0ED9B_8A96_CDF4_41D9_1E8D106DB085_fr_2.webp
+imlevel_5D0DD491_441A_9019_41B2_C47A16AA9E2E.url = media/panorama_201B0F95_2F6A_8D39_41C6_6CF73C6CAEC0_HS_nznafnb1_fr.webp
+imlevel_5D5524E9_441A_9009_41C4_C80AC7EBCFF8.url = media/panorama_213000CE_2F6E_9328_41B4_F2E1DE97DD8D_HS_1au5gxq2_fr.webp
+imlevel_5D5A34D5_441A_901E_41BD_30DFD1D9CD4B.url = media/panorama_213000CE_2F6E_9328_41B4_F2E1DE97DD8D_HS_1z457fqu_fr.webp
+imlevel_5D5B54B9_441A_9016_4177_4CC162659408.url = media/panorama_213000CE_2F6E_9328_41B4_F2E1DE97DD8D_HS_nekcftfo_fr.webp
+imlevel_5DE16DEF_441A_900A_41CD_78C6FB09EABB.url = media/panorama_21311750_2F6E_9D38_41A6_A46162504E80_HS_eaf89jh8_fr.webp
+imlevel_5DE1BDD9_441A_9009_41D0_A88A7C67F35E.url = media/panorama_21311750_2F6E_9D38_41A6_A46162504E80_HS_gqdn1j4h_fr.webp
+imlevel_5DE61DC4_441A_907E_4198_CF6274E6EFF5.url = media/panorama_21311750_2F6E_9D38_41A6_A46162504E80_HS_hvcp8otz_fr.webp
+imlevel_5D536D61_441A_9039_419A_D1051E8E0DA5.url = media/panorama_21311750_2F6E_9D38_41A6_A46162504E80_HS_ofp484qw_fr.webp
+imlevel_5DDDDFB9_441A_9016_41CE_E3A781C8B24D.url = media/panorama_3F1AA9D8_2F6E_B528_41BF_CCED2AC6B8A8_HS_elmlx2c8_fr.webp
+imlevel_5DC58F86_441A_90FD_41B3_5F380D830581.url = media/popup_2C2F42A1_39FE_1735_4172_B87ADCFB2F3C_fr_0_0.webp
+imlevel_5DC59F86_441A_90FD_41BF_5FC5488DA912.url = media/popup_2C2F42A1_39FE_1735_4172_B87ADCFB2F3C_fr_0_1.webp
+imlevel_5DC5EF86_441A_90FD_41CC_09E3EA9D6A8D.url = media/popup_2C2F42A1_39FE_1735_4172_B87ADCFB2F3C_fr_0_2.webp
+imlevel_5DC5CF86_441A_90FD_41CD_F64795194E43.url = media/popup_2C2F42A1_39FE_1735_4172_B87ADCFB2F3C_fr_0_3.webp
+imlevel_5DC5DF86_441A_90FD_41C9_1A3CB9F0EAD1.url = media/popup_2C2F42A1_39FE_1735_4172_B87ADCFB2F3C_fr_0_4.webp
+imlevel_5DDBB91A_441A_B00A_4190_B9DD2CFF1062.url = media/popup_2C4B83C5_39F2_157E_41B8_BE72558D06E9_fr_0_0.webp
+imlevel_5DDBA91B_441A_B00A_41D0_8DC11EFD1020.url = media/popup_2C4B83C5_39F2_157E_41B8_BE72558D06E9_fr_0_1.webp
+imlevel_5DDBD91B_441A_B00A_41CE_32691F01D504.url = media/popup_2C4B83C5_39F2_157E_41B8_BE72558D06E9_fr_0_2.webp
+imlevel_5DDBC91B_441A_B00A_4173_753842678A66.url = media/popup_2C4B83C5_39F2_157E_41B8_BE72558D06E9_fr_0_3.webp
+imlevel_5DDBF91B_441A_B00A_41C4_74B519DB48EE.url = media/popup_2C4B83C5_39F2_157E_41B8_BE72558D06E9_fr_0_4.webp
+imlevel_5D53FD4E_441A_900B_41A4_328632012A0F.url = media/popup_2D42E3E7_3826_0C24_41C4_118AF2202578_fr_0_0.webp
+imlevel_5D530D4F_441A_9009_419F_953ECEDE005E.url = media/popup_2D42E3E7_3826_0C24_41C4_118AF2202578_fr_0_1.webp
+imlevel_5D533D4F_441A_9009_41B1_316A965175EF.url = media/popup_2D42E3E7_3826_0C24_41C4_118AF2202578_fr_0_2.webp
+imlevel_5D534D4F_441A_9009_41C7_668AF92FCA47.url = media/popup_2D42E3E7_3826_0C24_41C4_118AF2202578_fr_0_3.webp
+imlevel_5D500D4F_441A_9009_41CB_55AA28541E8E.url = media/popup_2D42E3E7_3826_0C24_41C4_118AF2202578_fr_0_4.webp
+imlevel_5DCC7699_441A_9016_41CD_37294AB1AB0F.url = media/popup_2FC7782A_39FE_1334_41C1_F53405A4373C_fr_0_0.webp
+imlevel_5DCC4699_441A_9016_41CA_4DD129ED2CFA.url = media/popup_2FC7782A_39FE_1334_41C1_F53405A4373C_fr_0_1.webp
+imlevel_5DCFA699_441A_9016_41A3_93433DBCCC99.url = media/popup_2FC7782A_39FE_1334_41C1_F53405A4373C_fr_0_2.webp
+imlevel_5DCFB699_441A_9016_41CA_6056246CF652.url = media/popup_2FC7782A_39FE_1334_41C1_F53405A4373C_fr_0_3.webp
+imlevel_5DCF8699_441A_9016_41C3_8537C472FF49.url = media/popup_2FC7782A_39FE_1334_41C1_F53405A4373C_fr_0_4.webp
+imlevel_5DDDAFA9_441A_9036_41C1_F435B4A3237C.url = media/popup_50BBC719_443F_903A_41C3_91AE81691F79_fr_0_0.webp
+imlevel_5DE2AFA9_441A_9036_41CD_2F1F5B577D13.url = media/popup_50BBC719_443F_903A_41C3_91AE81691F79_fr_0_1.webp
+imlevel_5DE2BFA9_441A_9036_41CD_66CECCB252A4.url = media/popup_50BBC719_443F_903A_41C3_91AE81691F79_fr_0_2.webp
+imlevel_5DE2CFA9_441A_9036_41A9_10A91C5544B1.url = media/popup_50BBC719_443F_903A_41C3_91AE81691F79_fr_0_3.webp
+imlevel_5DD47B64_441A_B03E_4197_46048F3E55C1.url = media/popup_520F3672_442A_7009_41C2_72F6C713D2BC_fr_0_0.webp
+imlevel_5DD57B64_441A_B03E_41C5_EF9B047ED6AC.url = media/popup_520F3672_442A_7009_41C2_72F6C713D2BC_fr_0_1.webp
+imlevel_5DD56B64_441A_B03E_41CF_42CC35A5A0BC.url = media/popup_520F3672_442A_7009_41C2_72F6C713D2BC_fr_0_2.webp
+imlevel_5DD49B64_441A_B03E_41D0_01AE97386565.url = media/popup_520F3672_442A_7009_41C2_72F6C713D2BC_fr_0_3.webp
+imlevel_5DD14DBD_441A_B00E_41CC_D50AE417F88A.url = media/popup_52191679_4416_B0FB_41CA_616C28C1BB6E_fr_0_0.webp
+imlevel_5DD17DBE_441A_B00D_41B0_C2D74B863256.url = media/popup_52191679_4416_B0FB_41CA_616C28C1BB6E_fr_0_1.webp
+imlevel_5DD16DBE_441A_B00D_41B0_90326B088B9A.url = media/popup_52191679_4416_B0FB_41CA_616C28C1BB6E_fr_0_2.webp
+imlevel_5DD09DBE_441A_B00D_41D0_F8E4E4F67467.url = media/popup_52191679_4416_B0FB_41CA_616C28C1BB6E_fr_0_3.webp
+imlevel_96B818BD_8AAA_732D_41CD_313C7AEFEE11.url = media/zoomImage_2F846E3E_3EDB_2F38_4181_292B8FE31273_fr_0_0.png
+imlevel_96B8E8BD_8AAA_732D_41C6_A8D05E2C13BB.url = media/zoomImage_2F846E3E_3EDB_2F38_4181_292B8FE31273_fr_0_1.png
+imlevel_96B8F8BD_8AAA_732D_41AD_9F28B59B8339.url = media/zoomImage_2F846E3E_3EDB_2F38_4181_292B8FE31273_fr_0_2.png
+imlevel_96B9F8CC_8AAA_7353_41B1_EF911FD1A9C7.url = media/zoomImage_2FB36646_3EDA_DF48_41CD_D6BDF388439A_fr_0_0.png
+imlevel_96BAF8CC_8AAA_7353_41D2_7B470BC7C01A.url = media/zoomImage_2FB36646_3EDA_DF48_41CD_D6BDF388439A_fr_0_1.png
+imlevel_96BAC8CC_8AAA_7353_41D5_FAB15D1CE664.url = media/zoomImage_2FB36646_3EDA_DF48_41CD_D6BDF388439A_fr_0_2.png
+imlevel_96BA98EF_8AAA_732E_41DB_DC20AEA3AEBD.url = media/zoomImage_479D043B_673F_251D_41C5_C8BC59425F0E_fr_0_0.png
+imlevel_96B968EF_8AAA_732E_41C0_1B56F35770F5.url = media/zoomImage_479D043B_673F_251D_41C5_C8BC59425F0E_fr_0_1.png
+imlevel_96B978F0_8AAA_7332_41C8_04F7A04074A3.url = media/zoomImage_479D043B_673F_251D_41C5_C8BC59425F0E_fr_0_2.png
+imlevel_96B9B8DD_8AAA_736D_41C6_8F280831EB81.url = media/zoomImage_47DEDC11_673D_E4EA_41BD_DF807DACDEF5_fr_0_0.png
+imlevel_96B988DD_8AAA_736D_4151_13AD46C93C78.url = media/zoomImage_47DEDC11_673D_E4EA_41BD_DF807DACDEF5_fr_0_1.png
+imlevel_96B998DD_8AAA_736D_41D3_7B08BF2C6DD4.url = media/zoomImage_47DEDC11_673D_E4EA_41BD_DF807DACDEF5_fr_0_2.png
+
+### Plan de masse
+
+### Popup Image
+
+### Sous-titres vidéo
+
+### Titre
+album_2E95FB3E_386E_3C24_41BC_3BCF92B2CF84.label = Album Photo P1010838
+album_28313F1F_3EDB_2EF9_41AB_933323659772.label = Album Photo P1010838
+album_2CF6ABA2_39D6_7506_41AC_5D915BDEF24D.label = Album Photo P1020047
+album_2D5D59C3_3826_3C5D_417E_97FC92C7E8DD.label = Album Photo P1020059
+panorama_F145772E_FFDF_E2E2_41E2_234BD6DA87A1.label = Balcon
+panorama_F3907E6A_FFDF_E362_41DD_3E16F2831194.label = Chambre
+panorama_3F1AA9D8_2F6E_B528_41BF_CCED2AC6B8A8.label = Chambre_meublé
+panorama_201B0F95_2F6A_8D39_41C6_6CF73C6CAEC0.label = Couloir
+panorama_F39EA4CB_FFD8_27A2_41D7_04723827B0F6.label = Entrée
+panorama_213000CE_2F6E_9328_41B4_F2E1DE97DD8D.label = Entrée_meublé
+album_7F4B30DD_6725_1D1A_41C2_AD0902552C47_0.label = Image_debut_visite
+album_7F4B30DD_6725_1D1A_41C2_AD0902552C47.label = Image_debut_visite
+panorama_F3980AC9_FFD8_23AF_41D0_0233C150D4CE.label = Ouvrir_cuisine
+album_2E95FB3E_386E_3C24_41BC_3BCF92B2CF84_0.label = P1010838
+album_28313F1F_3EDB_2EF9_41AB_933323659772_0.label = P1010838
+album_28313F1F_3EDB_2EF9_41AB_933323659772_1.label = P1010842
+album_2E95FB3E_386E_3C24_41BC_3BCF92B2CF84_1.label = P1010842
+album_28313F1F_3EDB_2EF9_41AB_933323659772_2.label = P1010843
+album_2E95FB3E_386E_3C24_41BC_3BCF92B2CF84_3.label = P1010851
+album_28313F1F_3EDB_2EF9_41AB_933323659772_3.label = P1010851
+album_28313F1F_3EDB_2EF9_41AB_933323659772_4.label = P1010852
+album_2E95FB3E_386E_3C24_41BC_3BCF92B2CF84_4.label = P1010852
+album_2E95FB3E_386E_3C24_41BC_3BCF92B2CF84_5.label = P1010853
+album_28313F1F_3EDB_2EF9_41AB_933323659772_5.label = P1010853
+album_28313F1F_3EDB_2EF9_41AB_933323659772_6.label = P1010856
+album_2E95FB3E_386E_3C24_41BC_3BCF92B2CF84_6.label = P1010856
+album_28313F1F_3EDB_2EF9_41AB_933323659772_7.label = P1010859
+album_2E95FB3E_386E_3C24_41BC_3BCF92B2CF84_7.label = P1010859
+album_28313F1F_3EDB_2EF9_41AB_933323659772_8.label = P1010862
+album_2E95FB3E_386E_3C24_41BC_3BCF92B2CF84_8.label = P1010862
+album_28313F1F_3EDB_2EF9_41AB_933323659772_9.label = P1020009
+album_394FA7FA_2FA6_BCE8_41AD_F0CEECE44C26_0.label = P1020009
+album_394FA7FA_2FA6_BCE8_41AD_F0CEECE44C26_1.label = P1020031
+album_28313F1F_3EDB_2EF9_41AB_933323659772_10.label = P1020031
+album_28313F1F_3EDB_2EF9_41AB_933323659772_11.label = P1020037
+album_394FA7FA_2FA6_BCE8_41AD_F0CEECE44C26_2.label = P1020037
+album_28313F1F_3EDB_2EF9_41AB_933323659772_12.label = P1020039
+album_394FA7FA_2FA6_BCE8_41AD_F0CEECE44C26_3.label = P1020039
+album_28313F1F_3EDB_2EF9_41AB_933323659772_13.label = P1020040
+album_28313F1F_3EDB_2EF9_41AB_933323659772_14.label = P1020042
+album_28313F1F_3EDB_2EF9_41AB_933323659772_15.label = P1020046
+album_2CF6ABA2_39D6_7506_41AC_5D915BDEF24D_1.label = P1020050
+album_28313F1F_3EDB_2EF9_41AB_933323659772_16.label = P1020050
+album_28313F1F_3EDB_2EF9_41AB_933323659772_17.label = P1020055
+album_2D5D59C3_3826_3C5D_417E_97FC92C7E8DD_0.label = P1020059
+album_28313F1F_3EDB_2EF9_41AB_933323659772_18.label = P1020060
+album_2D5D59C3_3826_3C5D_417E_97FC92C7E8DD_1.label = P1020060
+album_28313F1F_3EDB_2EF9_41AB_933323659772_19.label = P1020061
+photo_29147C3C_396E_7392_419F_74091F76379C.label = P1020065
+photo_2AF5DA3C_3952_17B1_4191_01FDCD399B11.label = P1020066
+album_28313F1F_3EDB_2EF9_41AB_933323659772_20.label = P1020075
+album_28313F1F_3EDB_2EF9_41AB_933323659772_21.label = P1020077
+album_28313F1F_3EDB_2EF9_41AB_933323659772_22.label = P1020079
+photo_74FEAB32_672C_E32E_41C3_9163B7BBA2C0.label = P1020085
+photo_74FEAB32_672C_E32E_41C3_9163B7BBA2C0.label = P1020085
+photo_74175EA3_672C_E52E_41D5_C145945CFD8E.label = P1020091
+photo_74175EA3_672C_E52E_41D5_C145945CFD8E.label = P1020091
+album_394FA7FA_2FA6_BCE8_41AD_F0CEECE44C26.label = Photos vue
+panorama_2131FE55_2F6E_8F38_41A8_4EF29D9ADA3A.label = SDb_mueblé
+panorama_F39850C5_FFD8_3FA6_41EF_50A1325A7137.label = Salon
+panorama_21311750_2F6E_9D38_41A6_A46162504E80.label = Salon_meublé
+panorama_2131F4FC_2F6E_7CEF_41C5_B547A924352F.label = TV
+video_68F56EAD_6724_E53A_414E_8B85C39AE7DF.label = Timelaps
+video_20D3DD1A_2F66_8D2B_41C5_763973618195.label = Vid_Intro
+video_78B03239_67EF_7D1D_41CD_57AE37E05398.label = Vid_TV
+panorama_3AE87985_2FBF_9519_41C0_05F41FC12C15.label = balcon_M2
+map_9BB0ED9B_8A96_CDF4_41D9_1E8D106DB085.label = floorplant_appartement
+
+### Video
+videolevel_5F4B5BC9_446B_905E_41D0_B58906CE3B9F.url = media/video_20D3DD1A_2F66_8D2B_41C5_763973618195_fr.mp4
+videolevel_5F4B5BC9_446B_905E_41D0_B58906CE3B9F.posterURL = media/video_20D3DD1A_2F66_8D2B_41C5_763973618195_poster_fr.jpg
+videolevel_73D14D1A_672D_271F_41CA_8F2A0F219165.url = media/video_68F56EAD_6724_E53A_414E_8B85C39AE7DF_fr.mp4
+videolevel_73D14D1A_672D_271F_41CA_8F2A0F219165.posterURL = media/video_68F56EAD_6724_E53A_414E_8B85C39AE7DF_poster_fr.jpg
+videolevel_7ADAEED7_67E5_2515_41D3_F5A13B3A8961.url = media/video_78B03239_67EF_7D1D_41CD_57AE37E05398_fr.mp4
+videolevel_7ADAEED7_67E5_2515_41D3_F5A13B3A8961.posterURL = media/video_78B03239_67EF_7D1D_41CD_57AE37E05398_poster_fr.jpg
+
+## Popup
+
+### Corps
+htmlText_2C768698_3826_14EB_41A7_D4A9679853FD.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">Dans ce placard technique se trouvent le compteur Linky ainsi que le tableau électrique de l'appartement.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN/></SPAN></DIV><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">Le tableau électrique est clairement repéré : chaque disjoncteur est identifié par la pièce ou l'équipement qu'il alimente, ce qui permet de couper facilement l'alimentation d'une zone ou d'un appareil spécifique en cas de besoin.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN/></SPAN></DIV><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">Vous y trouverez également l'arrivée de la fibre optique et de la télévision. Enfin, le réseau informatique de l'appartement est distribué depuis ce placard : plusieurs prises Ethernet sont brassées vers le salon et la chambres, vous permettant de raccorder vos équipement.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_291B759B_396E_FC95_41C7_466BEA6DB956.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:17px;">Un digiphone avec caméra vous permet d'identifier votre interlocuteur sur l'écran et d'échanger avec lui avant d'ouvrir la porte.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_2D270976_3952_15BF_41B4_0FFAE21B381A.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Ce thermostat vous indique la chaleur dans le logement, vous permet de régler le chauffage et l'eau chaude sanitaire.</SPAN></DIV></BODY></HTML></div>
+
+### Titre
+window_291B459B_396E_FC95_41C3_6F90AFFFF56B.title = Digiphone avec caméra
+window_2D256976_3952_15BF_41BB_8A81166A4DA1.title = Thermostat
+window_2C76A698_3826_14EB_41B2_8B948BC9E6F9.title = Équipements techniques
+
+## Visite
+
+### Description
+tour.description = T2 résidence Green Park Bassens
+
+### Titre
+tour.name = Appartement
